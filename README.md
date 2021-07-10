@@ -81,5 +81,5 @@ If you don' like to play in linked channel:
 - `.da` - Disapproove someone to PM you
 + Sudo Users can execute any command in any groups
 
-#### Special Credits
+#### Developer Credits
 - 💎 [@UdayOP2312](http://github.com/UdayBindal2312): 
