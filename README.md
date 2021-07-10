@@ -1,6 +1,6 @@
 # How To Host
 The easiest way to deploy this Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/QueenArzoo/VCPlayBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/UdayBindal2312/TG-VCMusicRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 Get STRING_NAME from here:
 
@@ -61,10 +61,10 @@ For linked group admins only:
 - `/userbotjoinchannel` - invite assistant to your chat
 * channel is also can be used instead of c
 
-If you donlt like to play in linked channel:
+If you don' like to play in linked channel:
  1. Get your channel ID.
  2. Rename your group to: Channel Music: your_channel_id
- 3. Add @VCPlayBot as Channel admin with full perms
+ 3. Add [@VCHacker_Bot](telegram.me/VCHacker_Bot]) as Channel admin with full permits
  4. add helper to channel
  5. Simply send commands in your group.
 
@@ -74,9 +74,9 @@ If you donlt like to play in linked channel:
 - `/pmpermit [on/off]` - enable/disable pmpermit message
 
 #### Pmpermit
-- `.a` - approove someone to pm you
-- `.da` - disapproove someone to pm you
+- `.a` - Approve someone to PM you
+- `.da` - Disapproove someone to PM you
 + Sudo Users can execute any command in any groups
 
 #### Special Credits
-- [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
+- 💎 [@UdayOP2312](http://github.com/UdayBindal2312): 
