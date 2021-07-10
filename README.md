@@ -7,9 +7,7 @@ The easiest Way to Deploy This Robot
 
 Get STRING_NAME from here:
 
-[![Run on Repl.it](https://replit.com/badge/github/UdayBindal2312/TG-VCMusicRobot)](https://replit.com/@UdayBindal2312/TG-VCMusicRobot)
-
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@UdayBindal2312/TG-VCMusicRobot)
+[![Run on Repl.it](https://replit.com/badge/github/UdayBindal2312/TG-VCMusicRobot)](https://replit.com/@UdayBindal2312/TG-VCMusicRobot)  [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@UdayBindal2312/TG-VCMusicRobot)
 
 ### Mandatory Vars.
 
